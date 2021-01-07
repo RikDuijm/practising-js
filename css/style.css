@@ -1,0 +1,58 @@
+/* .image-box {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.webdesigner {
+    position:absolute; 
+    top: 0px; 
+    left: 0px; 
+    z-index: 1;
+    width: 100%;
+    height: auto;
+    /* border-radius: 90%; */
+} */
+
+.webdesign {
+    /* position:absolute;  */
+    /* top: 180px; 
+    left: 230px; 
+    z-index: 2; */
+}
+
+.tools {
+    /* position:absolute;  */
+    /* top: 150px; 
+    left: 320px; 
+    z-index: 2; */
+}
+
+
+/*.icons, */ .text {     
+    display: none;
+}
+
+.main-wrapper {
+      display: block;
+      width: 100%;
+      margin: auto;
+    }     
+
+  .mycontent-wrapper {
+      display: flex;
+      width: 100%;
+      margin: auto;
+    }     
+    .single-content-area  {
+        background-color: #34495e;
+        color: white;  
+        text-align: center;
+        padding: 20px;
+        margin: 15px;
+        display: block;
+        width: 33%;
+    }
+    .hidden-content {
+        display: none;
+    }
